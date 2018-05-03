@@ -1,7 +1,8 @@
 # GetSwifty
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+The projects aims to gather all swift popular and RELIABLE code snippets in one place!
 
+##angular dev docs
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
