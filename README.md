@@ -1,28 +1,19 @@
 # GetSwifty
 
-The projects aims to gather all swift popular and RELIABLE code snippets in one place!
+Swift to go is an initiative that aims to gather popular usecases in swift in one place, easy to search and organized. to help swift learners save time by finding accurate, reliable, and up-to-date snippets
 
-##angular dev docs
-## Development server
+## Contributing a new use case
+we are still figuring out a way to make this process generic an open as much as possible, if you have any suggestions please be in touch!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Use Case feedback
 
-## Code scaffolding
+if you think we can improve one of the use cases please open an issue!
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Inspiration
 
-## Build
+This project was inspired by a very similar project [Code to Go](https://codetogo.io/) by: [Jad Joubran](https://github.com/jadjoubran).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Made with Love
 
-## Running unit tests
+by: [Mazen Al Wafai](https://github.com/mazenello) & [Tarek Deeb](https://github.com/TarekDeeb).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
